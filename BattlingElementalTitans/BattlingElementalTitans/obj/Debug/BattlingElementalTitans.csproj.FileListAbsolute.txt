@@ -1,0 +1,135 @@
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\ApplicationInsights.config
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\csc.exe
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.CSharp.Core.targets
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\System.Collections.Immutable.dll
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\System.Reflection.Metadata.dll
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\vbc.exe
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\VBCSCompiler.exe
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\VBCSCompiler.exe.config
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\BattlingElementalTitans.dll.config
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\BattlingElementalTitans.dll
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\BattlingElementalTitans.pdb
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.Agent.Intercept.dll
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.DependencyCollector.dll
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.PerfCounterCollector.dll
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.Web.dll
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.WindowsServer.dll
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.ApplicationInsights.dll
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.DependencyCollector.xml
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.Web.xml
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.WindowsServer.xml
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.ApplicationInsights.xml
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\obj\Debug\BattlingElementalTitans.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\obj\Debug\BattlingElementalTitans.dll
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\obj\Debug\BattlingElementalTitans.pdb
+\\mac\home\documents\visual studio 2015\Projects\BattlingElementalTitans\BattlingElementalTitans\bin\AjaxControlToolkit.dll
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\ApplicationInsights.config
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\csc.exe
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\vbc.exe
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\VBCSCompiler.exe
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\BattlingElementalTitans.dll
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\BattlingElementalTitans.pdb
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\AjaxControlToolkit.dll
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.Web.dll
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.ApplicationInsights.dll
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.Web.xml
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.ApplicationInsights.xml
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\obj\Debug\BattlingElementalTitans.csprojResolveAssemblyReference.cache
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\obj\Debug\BattlingElementalTitans.dll
+C:\Users\QuangTrung\Desktop\BETTER\BattlingElementalTitans\BattlingElementalTitans\obj\Debug\BattlingElementalTitans.pdb
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\ApplicationInsights.config
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\csc.exe
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\vbc.exe
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\BattlingElementalTitans.dll.config
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\BattlingElementalTitans.dll
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\BattlingElementalTitans.pdb
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\AjaxControlToolkit.dll
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\obj\Debug\BattlingElementalTitans.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\obj\Debug\BattlingElementalTitans.dll
+\\Mac\Home\Downloads\BattlingElementalTitans\BattlingElementalTitans\obj\Debug\BattlingElementalTitans.pdb
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\ApplicationInsights.config
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\csc.exe
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\System.Collections.Immutable.dll
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\System.Reflection.Metadata.dll
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\vbc.exe
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\VBCSCompiler.exe
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\roslyn\VBCSCompiler.exe.config
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\BattlingElementalTitans.dll.config
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\BattlingElementalTitans.dll
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\BattlingElementalTitans.pdb
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\AjaxControlToolkit.dll
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.Agent.Intercept.dll
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.DependencyCollector.dll
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.Web.dll
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.WindowsServer.dll
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.ApplicationInsights.dll
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.DependencyCollector.xml
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.Web.xml
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.AI.WindowsServer.xml
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.ApplicationInsights.xml
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\obj\Debug\BattlingElementalTitans.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\obj\Debug\BattlingElementalTitans.dll
+\\Mac\Home\Downloads\C3218124_C3198416_Assig2\BattlingElementalTitans\BattlingElementalTitans\obj\Debug\BattlingElementalTitans.pdb
